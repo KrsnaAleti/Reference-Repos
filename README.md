@@ -7,8 +7,11 @@ This Repo contains the Reference Repos for Upskilling
 * https://github.com/KrsnaAleti/EDACollection
 
 ### Data Science by Krish Naik:
+* [Complete-Python-Bootcamp](https://github.com/krishnaik06/Complete-Python-Bootcamp)
+* [Complete-Data-Science-With-Machine-Learning-And-NLP-2024](https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024)
 * [The Grand Complete Data Science Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
 * [6 Months Data Science Roadmap](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-)
+  
 
 #### Data Science Referenc Repos:
 * https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
