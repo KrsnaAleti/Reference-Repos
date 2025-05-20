@@ -3,10 +3,14 @@ This Repo contains the Reference Repos for Upskilling
 
 * https://github.com/saurabh618/All-Python-codes-of-ZTM-course-by-Andrei-Neagoie
 
+#### Python-Exercises
+* https://github.com/saurabh618/100-Python-Programming-Exercises
+* https://github.com/saurabh618/100-plus-Python-programming-exercises-extended
+
 #### EDA:
 * https://github.com/KrsnaAleti/EDACollection
 
-### Data Science by Krish Naik:
+#### Data Science by Krish Naik:
 * [Complete-Python-Bootcamp](https://github.com/krishnaik06/Complete-Python-Bootcamp)
 * [Complete-Data-Science-With-Machine-Learning-And-NLP-2024](https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024)
 * [The Grand Complete Data Science Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
