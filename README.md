@@ -12,7 +12,7 @@ This Repo contains the Reference Repos for Upskilling
 
 #### Data Science by Krish Naik:
 
-* [Complete Roadmap to lear AI in 2025](https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI)
+* [Complete Roadmap to learn AI in 2025](https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI)
 * [Complete-Python-Bootcamp](https://github.com/krishnaik06/Complete-Python-Bootcamp)
 * [Complete-Data-Science-With-Machine-Learning-And-NLP-2024](https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024)
 * [The Grand Complete Data Science Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
